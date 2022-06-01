@@ -1,0 +1,6 @@
+name: Names
+type: module
+description: Module for printing names
+version: 1.0
+package: Z_Custom
+core_version_requirement: ^8 || ^9

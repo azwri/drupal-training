@@ -1,0 +1,7 @@
+custom_names.list:
+  path: '/names'
+  defaults:
+    _title: 'Custom Names'
+    _controller: \Drupal\custom_names\Controller\NamesController::listNames
+  requirements:
+    _permission: 'access content'
